@@ -1,0 +1,380 @@
+franceses	himalaya
+alemanes	bayou
+otomanos	himalaya
+lakotas	sonora
+españoles	decan
+britanicos	mongolia
+japoneses	indochina
+japoneses	yukon
+portugueses	carolina
+franceses	saguenay
+franceses	texas
+japoneses	mongolia
+japoneses	saguenay
+alemanes	himalaya
+rusos	himalaya
+japoneses	yucatan
+franceses	g llanuras
+otomanos	decan
+alemanes	carolina
+franceses	ozarks
+alemanes	yukon
+españoles	patagonia
+franceses	g lagos
+lakotas	yucatan
+portugueses	california
+franceses	bayou
+japoneses	borneo
+hindues	carolina
+japoneses	borneo
+holandeses	himalaya
+alemanes	carolina
+españoles	yucatan
+otomanos	n inglaterra
+portugueses	yucatan
+iroqueses	r de la seda
+japoneses	araucania
+hindues	decan
+hindues	española
+lakotas	yucatan
+holandeses	g lagos
+rusos	d pintado
+aztecas	ozarks
+otomanos	bayou
+holandeses	borneo
+holandeses	saguenay
+hindues	california
+japoneses	sonora
+españoles	ozarks
+rusos	n inglaterra
+iroqueses	borneo
+iroqueses	r amarillo
+aztecas	patagonia
+aztecas	n inglaterra
+otomanos	r amarillo
+franceses	g lagos
+españoles	española
+otomanos	n inglaterra
+franceses	g lagos
+lakotas	california
+hindues	california
+portugueses	g llanuras
+japoneses	borneo
+britanicos	yukon
+otomanos	r amarillo
+alemanes	g lagos
+alemanes	g llanuras
+aztecas	araucania
+hindues	patagonia
+portugueses	ozarks
+japoneses	himalaya
+holandeses	indochina
+japoneses	himalaya
+holandeses	yukon
+lakotas	ozarks
+iroqueses	siberia
+britanicos	carolina
+españoles	himalaya
+otomanos	yucatan
+alemanes	n inglaterra
+aztecas	yucatan
+franceses	saguenay
+japoneses	r de la seda
+iroqueses	yucatan
+franceses	araucania
+lakotas	decan
+aztecas	sonora
+otomanos	ozarks
+britanicos	siberia
+otomanos	g llanuras
+españoles	g llanuras
+hindues	decan
+españoles	sonora
+hindues	araucania
+hindues	mongolia
+iroqueses	yukon
+holandeses	yucatan
+franceses	n inglaterra
+aztecas	ozarks
+otomanos	española
+japoneses	r de la seda
+holandeses	ozarks
+rusos	borneo
+britanicos	texas
+franceses	saguenay
+lakotas	california
+japoneses	saguenay
+alemanes	borneo
+rusos	r de la seda
+otomanos	bayou
+aztecas	yucatan
+japoneses	siberia
+alemanes	borneo
+rusos	siberia
+iroqueses	yucatan
+otomanos	r amarillo
+otomanos	texas
+españoles	indochina
+holandeses	sonora
+españoles	texas
+iroqueses	himalaya
+alemanes	saguenay
+rusos	g lagos
+alemanes	española
+portugueses	d pintado
+españoles	saguenay
+portugueses	d pintado
+españoles	yukon
+rusos	d pintado
+franceses	r de la seda
+alemanes	g llanuras
+otomanos	bayou
+portugueses	yucatan
+alemanes	d pintado
+otomanos	r de la seda
+lakotas	española
+rusos	decan
+otomanos	r amarillo
+aztecas	g llanuras
+hindues	ozarks
+aztecas	española
+rusos	d pintado
+japoneses	g lagos
+hindues	yukon
+rusos	carolina
+alemanes	decan
+aztecas	himalaya
+aztecas	española
+españoles	d pintado
+britanicos	sonora
+portugueses	yucatan
+britanicos	r amarillo
+lakotas	ozarks
+otomanos	ozarks
+holandeses	saguenay
+alemanes	patagonia
+otomanos	indochina
+portugueses	g llanuras
+portugueses	ozarks
+franceses	d pintado
+hindues	d pintado
+holandeses	d pintado
+rusos	patagonia
+franceses	d pintado
+rusos	n inglaterra
+aztecas	g llanuras
+franceses	decan
+españoles	n inglaterra
+otomanos	sonora
+portugueses	n inglaterra
+alemanes	decan
+holandeses	ozarks
+rusos	himalaya
+britanicos	r amarillo
+rusos	g llanuras
+rusos	saguenay
+iroqueses	california
+japoneses	española
+aztecas	yukon
+hindues	bayou
+españoles	patagonia
+alemanes	texas
+lakotas	mongolia
+iroqueses	r amarillo
+iroqueses	g llanuras
+rusos	mongolia
+holandeses	española
+rusos	r de la seda
+hindues	borneo
+holandeses	araucania
+rusos	bayou
+britanicos	borneo
+hindues	decan
+franceses	decan
+aztecas	california
+aztecas	carolina
+holandeses	g lagos
+aztecas	g lagos
+otomanos	siberia
+franceses	r de la seda
+rusos	carolina
+rusos	california
+japoneses	yukon
+iroqueses	d pintado
+franceses	araucania
+iroqueses	g llanuras
+aztecas	himalaya
+britanicos	california
+otomanos	california
+franceses	española
+britanicos	siberia
+hindues	española
+otomanos	himalaya
+iroqueses	española
+franceses	g llanuras
+britanicos	r amarillo
+franceses	decan
+rusos	texas
+españoles	saguenay
+españoles	saguenay
+franceses	patagonia
+portugueses	española
+españoles	siberia
+britanicos	saguenay
+aztecas	r amarillo
+españoles	d pintado
+holandeses	araucania
+otomanos	g llanuras
+japoneses	g lagos
+lakotas	g lagos
+otomanos	siberia
+alemanes	saguenay
+rusos	california
+hindues	himalaya
+rusos	mongolia
+franceses	texas
+rusos	g llanuras
+portugueses	indochina
+portugueses	r amarillo
+españoles	r amarillo
+holandeses	saguenay
+iroqueses	mongolia
+aztecas	carolina
+iroqueses	indochina
+britanicos	araucania
+otomanos	araucania
+aztecas	mongolia
+japoneses	california
+iroqueses	n inglaterra
+hindues	decan
+alemanes	saguenay
+alemanes	indochina
+holandeses	d pintado
+rusos	carolina
+japoneses	r amarillo
+britanicos	española
+holandeses	siberia
+franceses	r de la seda
+lakotas	indochina
+hindues	california
+alemanes	sonora
+otomanos	borneo
+rusos	r de la seda
+lakotas	patagonia
+britanicos	araucania
+alemanes	yucatan
+lakotas	indochina
+aztecas	yucatan
+alemanes	araucania
+españoles	himalaya
+aztecas	mongolia
+britanicos	mongolia
+hindues	ozarks
+britanicos	ozarks
+holandeses	yucatan
+iroqueses	n inglaterra
+holandeses	r amarillo
+iroqueses	yucatan
+españoles	g lagos
+hindues	española
+holandeses	d pintado
+otomanos	california
+aztecas	n inglaterra
+lakotas	n inglaterra
+rusos	araucania
+portugueses	española
+rusos	bayou
+rusos	n inglaterra
+otomanos	texas
+portugueses	yukon
+rusos	patagonia
+rusos	himalaya
+lakotas	yukon
+alemanes	siberia
+franceses	g lagos
+britanicos	borneo
+britanicos	ozarks
+rusos	r de la seda
+lakotas	bayou
+japoneses	g lagos
+holandeses	española
+franceses	decan
+holandeses	texas
+españoles	siberia
+franceses	araucania
+holandeses	mongolia
+hindues	siberia
+alemanes	siberia
+japoneses	texas
+aztecas	g lagos
+aztecas	r amarillo
+rusos	siberia
+aztecas	r de la seda
+iroqueses	texas
+lakotas	araucania
+franceses	yucatan
+aztecas	g lagos
+alemanes	carolina
+franceses	g llanuras
+portugueses	california
+lakotas	texas
+alemanes	r amarillo
+japoneses	carolina
+otomanos	bayou
+rusos	d pintado
+españoles 	r de la seda
+lakotas	patagonia
+holandeses	mongolia
+britanicos	g lagos
+japoneses	g lagos
+holandeses	california
+otomanos	araucania
+aztecas	sonora
+lakotas	california
+hindues	decan
+portugueses	carolina
+rusos	g llanuras
+aztecas	himalaya
+portugueses	texas
+franceses	ozarks
+lakotas	carolina
+alemanes	n inglaterra
+alemanes	d pintado
+hindues	española
+britanicos	saguenay
+españoles	n inglaterra
+lakotas	araucania
+franceses	n inglaterra
+otomanos	g lagos
+franceses	saguenay
+iroqueses	ozarks
+holandeses	saguenay
+españoles	g lagos
+portugueses	g llanuras
+japoneses	g llanuras
+britanicos	g lagos
+alemanes	borneo
+japoneses	bayou
+otomanos	decan
+britanicos	decan
+japoneses	saguenay
+britanicos	indochina
+holandeses	siberia
+holandeses	himalaya
+aztecas	araucania
+lakotas	g lagos
+holandeses	saguenay
+alemanes	n inglaterra
+alemanes	yucatan
+portugueses	yucatan
+españoles	himalaya
+franceses	patagonia
+lakotas	saguenay
+holandeses	sonora
+alemanes	yucatan
+otomanos	himalaya
+holandeses	r de la seda
+franceses	carolina
+lakotas	n inglaterra
+iroqueses	indochina
+lakotas	araucania
